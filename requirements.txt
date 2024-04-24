@@ -1,0 +1,4 @@
+colorama==0.4.6
+SQLAlchemy==2.0.29
+termgraph==0.5.3
+typing_extensions==4.11.0
